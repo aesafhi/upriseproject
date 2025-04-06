@@ -1,0 +1,96 @@
+---
+title: "Meet the Team"
+format: 
+  html:
+    theme: flatly
+    toc: false
+    
+
+---
+
+
+
+:::: {.columns}
+## Dr. Shima Pilehvar
+::: {.column width="20%"}
+
+![Dr. Mahdi Kioumarsi](images/mahdi.jpg)
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+
+Dr. Mahdi KIOUMARSI is a Professor at OsloMet University & HiØ. With a Ph.D. from NTNU, he focuses on sustainable materials, structural engineering, & concrete technologies. He leads the Structural Engineering Laboratory & SmartVED lab at OsloMet. He has many published papers, led international research projects, & serves on editorial boards of scientific journals.
+
+- **Contact:** [mahdi.kioumarsi@hiof.no](mailto:mahdi.kioumarsi@hiof.no)  
+
+:::
+
+::::
+
+
+
+---
+
+
+
+:::: {.columns}
+## Dr. Shima PILEHVAR
+::: {.column width="20%"}
+
+![Dr. Shima PILEHVAR](images/shima.jpg)
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+
+Dr. Shima PILEHVAR is an Associate Professor at HiØ, with a Ph.D. in Chemical Engineering. Her research focuses on sustainable materials including geopolymer concrete, 3D printed concrete, & lunar construction. She has published extensively on advanced concrete technologies & thermal performance enhancements.
+
+- **Contact:** [shima.pilehvar@hiof.no](mailto:shima.pilehvar@hiof.no)  
+
+:::
+
+::::
+
+
+
+---
+
+
+
+:::: {.columns}
+## Dr. Amine Safhi
+::: {.column width="20%"}
+
+![Dr. Amine Safhi](images/amine.jpg)
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+
+Dr. Amine SAFHI, currently MSCA Research Fellow at HiØ. He holds a Ph.D. in Civil Engineering, & has a strong background in sustainable construction, circular economy, & sustainability. He had participated in multi-disciplinary research projects focusing on recycling by-products including mining waste & dredged sediments as construction materials.
+
+
+- **Contact:** [aesafhi@hiof.no](mailto:aesafhi@hiof.no)  
+
+:::
+
+::::
+
+
+
+
+
+[Back to Home](index.qmd)

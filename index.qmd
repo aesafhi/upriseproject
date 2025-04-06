@@ -1,0 +1,37 @@
+---
+title: "UP-RISE Project"
+
+
+
+about:
+  template: trestles
+  image: images/logo.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/dredgedsedimentsinnovationhub/?viewAsMember=true
+    
+
+comments: false
+toc: false
+execute: 
+  warning: false
+
+---
+
+
+Transforming Dredged Sediments into Tomorrow’s Infrastructure.
+
+Unlocking the Potential of Dredged Sediments for Resilient and Sustainable Infrastructure (UP-RISE) is a research project funded by the Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship under the Horizon Europe programme (Project No. 101129741). It is hosted by Østfold University College (Norway), co-supervised by OsloMet, and developed in collaboration with the industrial partner NETICS (Netherlands).
+
+UP-RISE is dedicated to pioneering sustainable, circular solutions for the reuse of dredged sediments in civil engineering. By converting these underutilized materials into high-performance, low-carbon construction components, the project supports the transition toward climate-resilient infrastructure and aligns with the EU Green Deal and global sustainability goals.
+
+Through interdisciplinary research, experimental development, and industry collaboration, UP-RISE explores innovative binders, performance optimization, and real-world applications of sediment-based materials.
+
+
+::: callout-note 
+Get in touch:
+ [aesafhi@hiof.no](mailto:aesafhi@hiof.no)  
+:::
+
+

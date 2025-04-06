@@ -1,0 +1,40 @@
+---
+title: "Publications of the team related to the topic"
+format: 
+  html:
+    theme: flatly
+    toc: false
+    page-layout: full
+---
+
+
+
+**Safhi, A.**., Mejjad, N., FadilI, H El., & Bortali, M. (2024). Dredged materials in Morocco: current practices, policies, and roadmap for sustainable management. *Case Studies in Construction Materials*. 20, e03045
+
+Bouchikhi, A., **Safhi, A.**., Rivard, P., Snellings, R., & Abriak, NE. (2022). Fluvial sediments as SCMs: characterization, pozzolanic performance, and optimization of equivalent binder. *Journal of Materials in Civil Engineering*. 34 (2), 04021430
+
+**Safhi, A.**. (2022). Valorization of dredged sediments as sustainable construction resources. *CRC Press*. 
+
+**Safhi, A.**., Rivard, P., Yahia, A., Khayat, KH., & Abriak, NE. (2021). Durability and transport properties of SCC incorporating dredged sediments. *Construction and Building Materials*. 288, 123116
+
+**Safhi, A.**M., Rivard, P., Benzerzour, M., & Abriak, NE. (2021). Artificial rocks made from dredged sands of the Magdalen Islands (Canada): preliminary study. *RILEM Annual Week*. 994-1003
+
+**Safhi, A.**., Rivard, P., Yahia, A., Benzerzour, M., & Khayat, KH. (2020). Valorization of dredged sediments in self-consolidating concrete: fresh, hardened, and microstructural properties. *Journal of Cleaner Production*. 263, 121472
+
+**Safhi, A.**M. (2020). Valorisation des sédiments de dragage dans des bétons autoplaçants: optimisation de la formulation et étude de la durabilité. *Ecole nationale supérieure Mines-Télécom Lille Douai; Université de …*. 
+
+**Safhi, A.**., Benzerzour, M., Rivard, P., Abriak, NE., & Ennahal, I. (2019). Development of self-compacting mortars based on treated marine sediments. *Journal of Building Engineering*. 22, 252-261
+
+**Safhi, A.**., Benzerzour, M., Rivard, P., & Abriak, NE. (2019). Feasibility of using marine sediments in SCC pastes as supplementary cementitious materials. *Powder Technology*. 344, 730-740
+
+Amar, M., Benzerzour, M., **Safhi, A.**M., & Abriak, NE. (2018). Durability of a cementitious matrix based on treated sediments. *Case studies in construction materials*. 8, 258-276
+
+Safhi, NEA., Mahdi, Amine el., Patrice, Rivard., & Mahfoud, Benzerzour. (2018). The effect of treated sediments on self-compacting mortars properties using design of experiments. **. 6th International Symposium on Sediment Management San Cristóbal de Las …
+
+**Safhi, A.**, Benzerzour, M., Rivard, P., & Abriak, NE. (2017). La durabilité des matrices cimentaires à base de sédiments de dragages. *XIV th International Symposium on Environment, Catalysis and Process …*. 
+
+Benzerzour, M., Amar, M., **Safhi, A.**, & Abriak, NE. (2017). Durability of a cementitious matrix based on treated sediments. *World Academy of Science, Engineering and Technology, International Journal …*. 
+
+
+
+[Back to Home](index.qmd)
